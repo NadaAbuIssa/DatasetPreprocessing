@@ -1,0 +1,5 @@
+id;age;gender;height;weight;active;governorate;fruit;
+1;30;male;170;88;no;ramallah;orang;
+2;25;male;160;65;no;nablus;appale;
+3;34;female;173;88;no;ramallah;banana;
+4;50;male;180;65;no;salfit;apple;
